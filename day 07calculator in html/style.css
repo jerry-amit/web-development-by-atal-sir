@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+    text-align: center;
+    /* background-color: url(https://media.istockphoto.com/id/1287456867/photo/clear-night-sky-with-milky-way-and-huge-amount-of-stars.jpg?s=612x612&w=0&k=20&c=mX4PtN6zMBVjzukQfWoBuNSnZS48NXxUmGlfxI5tkoE=); */
+    background-image: url(https://media.istockphoto.com/id/1287456867/photo/clear-night-sky-with-milky-way-and-huge-amount-of-stars.jpg?s=612x612&w=0&k=20&c=mX4PtN6zMBVjzukQfWoBuNSnZS48NXxUmGlfxI5tkoE=);
+    /* background-color: url;    */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 650px;
+
+}
+
+h1{
+    background-color: rgb(144, 148, 28);
+    font-size: 75px;
+    color: greenyellow;
+}
+
+input{
+    text-align: center;
+    width: 75px;
+    height: 50px;
+    font-size: 45px;                                                                                                                                            
+    border-radius: 15px;
+    margin: 10px;
+    /* background-color: goldenrod; */
+    color: black;
+    border-style: none;
+}
+
+.btn:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
